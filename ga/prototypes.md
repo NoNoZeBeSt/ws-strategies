@@ -26,7 +26,7 @@ Stratégie générale
 - [Vague pulsatomique](http://wildstar.datminer.com/fr/spell/#): bump puis 3 séries vagues en cercle, possibilité de se réfugier au pied du boss pour ne pas avoir à éviter les vagues
 
   __Le fabricant__
-- _Activation_ - [Sparks](http://wildstar.datminer.com/fr/spell/#): une dizaine de zones rouges apparaissent dans toute la salle, il faut qu'au moins une personne se place dans chaque zone avant la fin du timer pour ne pas prendre [Catalyse technophage](http://wildstar.datminer.com/fr/spell/#) (~10k dégats sur tout le raid)
+- _Activation_ - [Sparks](http://wildstar.datminer.com/fr/spell/#): une dizaine de zones rouges apparaissent dans toute la salle, il faut qu'au moins une personne se place dans chaque zone avant la fin du timer pour ne pas prendre [Catalyse technophage](http://wildstar.datminer.com/fr/spell/#) (~10k dégâts sur tout le raid)
 - [Déployer Destructobot](http://wildstar.datminer.com/fr/spell/#): fait apparaitre 3 robots, qui, s'ils ont le temps d'exploser, déposent de grandes AOE permanentes. À burst DPS en priorité.
 
 Déroulement du combat

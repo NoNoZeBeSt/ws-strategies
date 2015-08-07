@@ -110,7 +110,7 @@ Stratégie générale
 ------------------
 - Tous les 25% HP, le boss met le raid à 1HP et le propulse en l'air
 - Le boss fait apparaître des zones sous des joueurs au hasard: bump en l'air à la fin du cast
-- Il attire tout le raid sur lui et cast une AOE dont les dégats sont répartis sur les personnes touchées
+- Il attire tout le raid sur lui et cast une AOE dont les dégâts sont répartis sur les personnes touchées
 
 Important
 ---------
