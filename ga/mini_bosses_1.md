@@ -9,7 +9,7 @@ Mutant horriblement déformé
 Stratégie générale
 ------------------
 - Le boss fait apparaître des poulpes:
-- Si le boss les mange il gagne un buff de dégats (stack)
+- Si le boss les mange il gagne un buff de dégâts (stack)
 - Chaque joueur touché par un poulpe prend un DoT&debuff (stack) + une AOE à ses pieds
 
 Important
@@ -53,7 +53,7 @@ Les attaques à éviter
 ---------------------
 - La douche !
 - Les oeufs qui explosent si on tape dessus
-- Les AOE rondes (persistentes) des oeufs explosés
+- Les AOE rondes (persistantes) des oeufs explosés
 
 Stratégies spécifiques
 ----------------------
@@ -62,8 +62,8 @@ Stratégies spécifiques
 - Faire des pauses quand le boss est sous la douche
 
 ### Heals
-- Heal tank: [Écrasement](http://wildstar.datminer.com/fr/spell/61398) et [Coup Violent](http://wildstar.datminer.com/fr/spell/61396) = gros dégats
-- Heals raid: phase de déplacement après la douche = gros dégats
+- Heal tank: [Écrasement](http://wildstar.datminer.com/fr/spell/61398) et [Coup Violent](http://wildstar.datminer.com/fr/spell/61396) = gros dégâts
+- Heals raid: phase de déplacement après la douche = gros dégâts
 
 ### DPS
 - Éviter de faire péter les oeufs
@@ -163,7 +163,7 @@ Malformation fétide
 Stratégie générale
 ------------------
 - Boss poteau
-- Stack des buffs qui augmentent sont attaque et réduit les dégats qu'il subit
+- Stack des buffs qui augmentent son attaque et réduit les dégâts qu'il subit
 
 Important
 ---------
@@ -175,7 +175,7 @@ Les attaques à interrompre
 
 Les (de)buffs
 -------------
-- ???: augmente les dégats donnés et réduit les dégats reçus du boss, à dispell
+- ???: augmente les dégâts donnés et réduit les dégâts reçus du boss, à dispell
 
 Stratégies spécifiques
 ----------------------

@@ -1,6 +1,6 @@
-Prototypes Technophage
+Prototypes Technophages
 ======================
-![Prototypes Technophage](http://i.imgur.com/uJsn6qA.jpg)
+![Prototypes Technophages](http://i.imgur.com/uJsn6qA.jpg)
 
 Stratégie générale
 ------------------
@@ -10,24 +10,24 @@ Stratégie générale
 - Chaque robot possède 2-3 attaques dont une spéciale qu'il cast uniquement pendant sa phase d'activation
 
   __Le commandant__
-- _Activation_ - [Liaison railleuse](http://wildstar.datminer.com/fr/spell/#): créer un lien (laser jaune) entre deux joueurs, ceux-ci subissent des dégats s'il sont trop proches
+- _Activation_ - [Liaison railleuse](http://wildstar.datminer.com/fr/spell/#): créer un lien (laser jaune) entre deux joueurs, ceux-ci subissent des dégâts s'ils sont trop proches
 - [Protocole de destruction](http://wildstar.datminer.com/fr/spell/#): stun puis attaque violente sur le tank
-- [Production forcée](http://wildstar.datminer.com/fr/spell/#): fait apparaitre des robots de heal (Augmenteur activé) ou des destructeurs (Fabricant activé), à kick absolument
+- [Production forcée](http://wildstar.datminer.com/fr/spell/#): fait apparaître des robots de heal (Augmenteur activé) ou des destructeurs (Fabricant activé), à kick absolument
 
   __L'augmenteur__
-- _Activation_ - [Réalité augmentée](http://wildstar.datminer.com/fr/spell/#): 5 joueurs sont téléporté dans une pièce, chaque joueur possède un symbol et doit courrir dans la zone du meme symbole. Au retour de la piece, les joueurs déposent des AOE vertes qui buffent le DPS
+- _Activation_ - [Réalité augmentée](http://wildstar.datminer.com/fr/spell/#): 5 joueurs sont téléportés dans une pièce, chaque joueur possède un symbole et doit courir dans la zone du même symbole. Au retour de la pièce, les joueurs déposent des AOE vertes qui buffent le DPS
 - [Déployer Bricobot](http://wildstar.datminer.com/fr/spell/#): fait pop un robot qui va essayer de heal les autres robots, à burst DPS en priorité
 - [Foreuse technophage](http://wildstar.datminer.com/fr/spell/#): télégraphes en forme de croix qui apparaissent aux pieds des joueurs, se disperser et éviter
 
 
   __Le protecteur__
 - _Activation_ - [Singularité gravitationnelle](http://wildstar.datminer.com/fr/spell/#): emprisonne/encercle une partie du groupe dans une zone, pour en sortir, il faut DPS la singularité (boule rouge).
-- [Transposition défensive](http://wildstar.datminer.com/fr/spell/#): switch de place avec l'Augmenteur, attendre qu'il revienne tout seul
+- [Transposition défensive](http://wildstar.datminer.com/fr/spell/#): switch de place avec l'Augmenteur, attendre qu'il revienne tout seul, ne reset pas l'aggro
 - [Vague pulsatomique](http://wildstar.datminer.com/fr/spell/#): bump puis 3 séries vagues en cercle, possibilité de se réfugier au pied du boss pour ne pas avoir à éviter les vagues
 
   __Le fabricant__
-- _Activation_ - [Sparks](http://wildstar.datminer.com/fr/spell/#): une dizaine de zones rouges popent dans toute la salle, il faut qu'au moins une personne se place dans chaque zone avant la fin du timer pour ne pas prendre [Catalyse technophage](http://wildstar.datminer.com/fr/spell/#) (~10k dégats)
-- [Déployer Destructobot](http://wildstar.datminer.com/fr/spell/#): fait apparaitre 3 robots, qui, s'ils ont le temps d'exploser, dépose de grandes AOE permanentes. À burst DPS en priorité.
+- _Activation_ - [Sparks](http://wildstar.datminer.com/fr/spell/#): une dizaine de zones rouges apparaissent dans toute la salle, il faut qu'au moins une personne se place dans chaque zone avant la fin du timer pour ne pas prendre [Catalyse technophage](http://wildstar.datminer.com/fr/spell/#) (~10k dégats sur tout le raid)
+- [Déployer Destructobot](http://wildstar.datminer.com/fr/spell/#): fait apparaitre 3 robots, qui, s'ils ont le temps d'exploser, déposent de grandes AOE permanentes. À burst DPS en priorité.
 
 Déroulement du combat
 ---------------------
@@ -72,14 +72,14 @@ Stratégies spécifiques
 - Le tank du Commandant doit prendre un CC break pour éviter le coup suivant le stun de [Protocole de destruction](http://wildstar.datminer.com/#)
 
 ### Heals
-- Focus du groupe emprisoné par [Singularité gravitationnelle](http://wildstar.datminer.com/fr/spell/#) du Protecteur
+- Focus du groupe emprisonné par [Singularité gravitationnelle](http://wildstar.datminer.com/fr/spell/#) du Protecteur
 
 ### DPS
 - Burst DPS tous les adds en priorité
 - Se placer dans les zones vertes de [Réalité augmentée](http://wildstar.datminer.com/fr/spell/#) de l'Augmenteur pour bénéficier du buff
 
-### DPS distances
-- Focus & Burst de la singularité (la boule au centre de l'AOE) lorsqu'un groupe est emprisoné par [Singularité gravitationnelle](http://wildstar.datminer.com/fr/spell/#) du Protecteur
+### DPS distance
+- Focus & Burst de la singularité (la boule au centre de l'AOE) lorsqu'un groupe est emprisonné par [Singularité gravitationnelle](http://wildstar.datminer.com/fr/spell/#) du Protecteur
 
 Placement du raid
 -----------------
@@ -95,8 +95,8 @@ Annoncé sur le vocal
 --------------------
 - L'activation des bosses
 - Le pop des adds de l'Augmenteur et du Fabricant
-- Le boss a focus
-- [Singularité gravitationnelle](http://wildstar.datminer.com/fr/spell/#): DPS pour libérer les prisoniers
+- Le boss à focus
+- [Singularité gravitationnelle](http://wildstar.datminer.com/fr/spell/#): DPS pour libérer les prisonniers
 - [Vague pulsatomique](http://wildstar.datminer.com/fr/spell/#) (si le groupe ne se pack pas aux pieds du boss)
 - Le pop des bombes (AoE rouges) du Fabricant
 

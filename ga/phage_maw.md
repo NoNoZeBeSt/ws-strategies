@@ -13,7 +13,7 @@ Stratégie générale
 
   __Mécanique des bombes__:
 - Quand une bombe explose, tout le raid prend des dégâts
-- Quand le boss envoi son laser sur une bombe, il l'a fait exploser
+- Quand le boss envoie son laser sur une bombe, il la fait exploser
 - Quand le boss s'envole, toutes les bombes encore au sol explosent
 - Les bombes popent par série de 4 ou 5 ~une fois toutes les 25s
 - En P1, 3 séries de 4 bombes; En P2, 3 séries de 5
@@ -24,7 +24,7 @@ Important
 - Le joueur qui a le bouclier dans sa barre d'action flottante doit l'activer pour protéger le raid de [Cratère](http://wildstar.datminer.com/fr/spell/60442)
 - Quand il ne reste que deux bombes, le groupe des bombes va focus le boss
 - Le groupe des bombes doit laisser le temps aux heals de remonter le raid avant de faire exploser une nouvelle bombe
-- Les guerriers et/ou ingénieurs du groupe posent successivement leurs [Grille de défence](http://wildstar.datminer.com/fr/spell/54475) et/ou [Matrice récursive](http://wildstar.datminer.com/fr/spell/42572) (T4) à la fin de chaque phase de bombe
+- Les guerriers et/ou ingénieurs du groupe posent successivement leurs [Grille de défense](http://wildstar.datminer.com/fr/spell/54475) et/ou [Matrice récursive](http://wildstar.datminer.com/fr/spell/42572) (T4) à la fin de chaque phase de bombe
 
 Les attaques à éviter
 ---------------------
@@ -44,7 +44,7 @@ Stratégies spécifiques
 - Garder du burst pour le moment où le boss retombe (MOO)
 
 ### Guerriers et ingénieurs
-- Lancer [Grille de défence](http://wildstar.datminer.com/fr/spell/54475) ou [Matrice récursive](http://wildstar.datminer.com/fr/spell/42572) (T4) à la fin de chaque phase de bombe
+- Lancer [Grille de défense](http://wildstar.datminer.com/fr/spell/54475) ou [Matrice récursive](http://wildstar.datminer.com/fr/spell/42572) (T4) à la fin de chaque phase de bombe
 
 Placement du raid
 -----------------

@@ -9,7 +9,7 @@ Stratégie générale
 
   Phase 2, gestion de la corruption et des oeufs:
 - La boss corrompt un joueur au hasard: DoT et buff +100% dégats ([Corruption chromosomique](http://wildstar.datminer.com/fr/spell/56652))
-- Régulièrement, elle transforme les joueurs corrompu en oeufs ([Nourrir la corruption](http://wildstar.datminer.com/fr/spell/60559)), ceux-ci doivent être kickés en suivant la Macro (pas de kick = mort)
+- Régulièrement, elle transforme les joueurs corrompus en oeufs ([Nourrir la corruption](http://wildstar.datminer.com/fr/spell/60559)), ceux-ci doivent être kickés en suivant la Macro (pas de kick = mort)
 - La corruption est transmise aux joueurs qui kickent les oeufs (en général dans la macro = les joueurs au plus gros DPS)
 - En toute logique, 1 puis 2 puis 4 puis 8 (16 on oublie) joueurs seront affectés par la corruption et transformés en oeufs à chaque [Nourrir la corruption](http://wildstar.datminer.com/fr/spell/60559)
 - Si un joueur kick deux oeufs (ou un oeuf + la boss), il meurt => les joueurs corrompus se séparent (cf. Macro) à chaque pop des oeufs
@@ -26,7 +26,7 @@ Important
 - Attention aux placements lors du pop des oeufs, mauvais placements = wipe
 - Si un joueur corrompu meurt, il annonce son placement sur le vocal et un remplaçant prend sa place
 - Seul les tanks kickent [Siphon d'ADN](http://wildstar.datminer.com/fr/spell/56589)
-- Éviter de se faire toucher deux fois consécutives par [Répulsion](http://wildstar.datminer.com/fr/spell/57729) (sinon gros dégats)
+- Éviter de se faire toucher deux fois consécutives par [Répulsion](http://wildstar.datminer.com/fr/spell/57729) (sinon gros dégâts)
 
 Les attaques à éviter
 ---------------------

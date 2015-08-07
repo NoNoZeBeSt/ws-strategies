@@ -9,9 +9,9 @@ Gardiens technophages (C-148 & C-432)
 Stratégie générale
 ------------------
 - Le boss grapin un membre du groupe au hasard puis cleave
-- Il fait exploser les pilliers droite et gauche puis les deux simultanément (à kick ou wipe)
+- Il fait exploser les pilliers droite, puis gauche, puis les deux simultanément (à kick ou wipe)
 - Si touché par l'AOE des piliers: TP dans une salle au dessus, il faudra éviter des lasers pour redescendre
-- Il fait apparaitre des adds qui peuvent faire de gros dégats
+- Il fait apparaitre des adds qui peuvent faire de gros dégâts
 
 Important
 ---------
@@ -19,7 +19,7 @@ Important
 - Ciblé par [Grapin](http://wildstar.datminer.com/fr/spell/61418) = déplacement en arrière pour éviter le cleave d'[Éradiquer](http://wildstar.datminer.com/fr/spell/61419) (pas de pas sur les côtés)
 - Les CaCs: attention au cleave de [Baffe](http://wildstar.datminer.com/fr/spell/61263)
 - Attention au moment de redescendre si TP dans la salle au dessus: ne pas agro les patrouilles
-- Ne pas kick [Surcharge génétique](http://wildstar.datminer.com/fr/npc/54785) trop tot
+- Ne pas kick [Surcharge génétique](http://wildstar.datminer.com/fr/npc/54785) trop tôt
 
 Les attaques à interrompre
 --------------------------
